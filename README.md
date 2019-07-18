@@ -10,9 +10,9 @@ A proyect of home atomation lauch from Raspberry.
 Connect VCC wire to 4th pin (5V) on raspberry and next connect GND wire to 6th pin on raspberry.
 We are using GPIO4 with this app, then connect signal wire to 7th pin on raspberry.
 
-    ![alt text](/image_readme/Solid_state_Relay.png)
-    ![alt text](/image_readme/gpio.png)
-    ![alt text](/image_readme/img_raspberrypi3.png)
+![alt text](/image_readme/Solid_state_Relay.png)
+![alt text](/image_readme/gpio.png)
+![alt text](/image_readme/img_raspberrypi3.png)
 
 
 ### Installing
