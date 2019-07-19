@@ -40,8 +40,8 @@ npm start
 
 ### Built With
 This app use:
-* [Node](http://www.dropwizard.io/1.0.2/docs/) - A cross-platform JavaScript run-time environment.
-* [Express](https://maven.apache.org/) - Use petitions http.
+* [Node](https://nodejs.org/es/) - A cross-platform JavaScript run-time environment.
+* [Express](https://expressjs.com/es/) - Use petitions http.
 * [Onoff](https://www.npmjs.com/package/onoff) and [Pigpio](https://www.npmjs.com/package/pigpio) - Get control over GPIO pins on Raspberry.
 
 
