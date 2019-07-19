@@ -11,9 +11,9 @@ A proyect of home atomation lauch from Raspberry.
     Next connect GND wire to 6th pin on raspberry.
     We are using GPIO4 with this app, then connect signal wire to 7th pin on raspberry.
 
-<img src="image_readme/Solid_state_Relay.png" style="width:50px;float:left">
-<img src="image_readme/gpio.png" style="width:50px;float:left">
-<img src="image_readme/img_raspberrypi3.png" style="width:50px;float:left">
+<img src="image_readme/Solid_state_Relay.png" style="width:50px">
+<img src="image_readme/gpioo.png" style="width:50px">
+<img src="image_readme/img_raspberrypi3.png" style="width:50px">
 
 ![alt text](/image_readme/Solid_state_Relay.png)
 ![alt text](/image_readme/gpio.png)
